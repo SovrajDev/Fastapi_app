@@ -1,0 +1,10 @@
+numpy==1.25.2
+scikit-learn==1.3.0
+pandas==2.0.3
+fastapi
+uvicorn
+fuzzywuzzy
+google-generativeai
+httpx
+pydantic
+python-Levenshtein
